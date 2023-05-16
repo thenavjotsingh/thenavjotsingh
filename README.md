@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" style="font-weight: bold;">Navjot Singh </h1>
+<h1 align="center" style="font-weight: bold;">Hello World 👋🏽 🌏 </h1>
 <h3 align="center">
 <span style="font-weight: normal ; font-size: 18px"> 
 <span style="color:red; " > <b><em>[I]</em></b> </span> know a guy who knows a guy who can <span style="color: red;" ><em>[debug]</em></span>  anything. And I mean <span style="color: red;" ><em>[anything]</em></span> 
