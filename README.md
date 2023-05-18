@@ -146,9 +146,6 @@ font-size:16px">Email Me</a>
 <br>
 <br>
 
-![navjot](https://github.com/thenavjotsingh/thenavjotsingh/assets/20323223/6c323eb3-4317-4604-998e-f49712537a58)
-
-![navjot_border](https://github.com/thenavjotsingh/thenavjotsingh/assets/20323223/3ed3f8ff-6e97-403d-8834-ac6a0bacc4fa)
 
 
 <!--
