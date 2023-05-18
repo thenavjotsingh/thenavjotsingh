@@ -16,7 +16,7 @@
 ```Channeling my inner Saul Goodman to solve complex programming problems. Sometimes the best solutions are the ones that are a little unconventional. ```
     
 <br>
-<img src="https://github.com/thenavjotsingh/thanavjotsingh/assets/20323223/5204d728-dfd4-4251-9b05-c71a4406ac02"/>
+<img src="https://github.com/thenavjotsingh/thenavjotsingh/assets/20323223/6c323eb3-4317-4604-998e-f49712537a58"/>
 <br>
 <br>
 
@@ -146,6 +146,7 @@ font-size:16px">Email Me</a>
 <br>
 <br>
 
+![navjot](https://github.com/thenavjotsingh/thenavjotsingh/assets/20323223/6c323eb3-4317-4604-998e-f49712537a58)
 
 <!--
 **thenavjotsingh/thenavjotsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
