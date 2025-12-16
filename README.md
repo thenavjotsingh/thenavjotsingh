@@ -22,8 +22,8 @@
 
 ### Hello visitor👋🏽, my name is Navjot Singh and I am: 
    
-  <li> CS Graduate Student <span style="font-size: 25px">💻 👨🏽‍🎓</span></li>
-  <li>Experienced Software Engineer 👨🏽‍💻</li>
+  <li> A Learner <span style="font-size: 25px">💻 👨🏽‍🎓</span></li>
+  <li>Software Engineer 👨🏽‍💻</li>
       <li>Polyglot Developer 👨🏽‍💻;</li>
   <li>Cinemetagraphy and photography
     <span style="font-size: 25px">🎥 📸 </span>enthusiast</li>
