@@ -22,12 +22,12 @@
 
 ### Hello visitor👋🏽, my name is Navjot Singh and I am: 
    
-  <li> A Learner <span style="font-size: 25px">💻 👨🏽‍🎓</span></li>
-  <li>Software Engineer 👨🏽‍💻</li>
-      <li>Polyglot Developer 👨🏽‍💻;</li>
-  <li>Cinemetagraphy and photography
+  <li> A Lifelong Learner <span style="font-size: 25px">💻 👨🏽‍🎓</span></li>
+  <li>A Software Engineer 👨🏽‍💻</li>
+      <li>A Polyglot Developer 👨🏽‍💻;</li>
+  <li>A Cinematography and photography
     <span style="font-size: 25px">🎥 📸 </span>enthusiast</li>
-      <li>An avid biker and travel enthusiast 🚌🏍</li>
+      <li>An avid biker and a travel lover 🚌🏍</li>
     
   
 
